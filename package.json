@@ -1,11 +1,11 @@
 {
   "name": "find-html-files",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "recursively find all HTML files in a directory",
   "main": "findhtmlfiles.js",
   "type": "module",
   "bin": {
-    "findhtml": "./findhtmlfiles.js"
+    "findhtml": "./findhtml.js"
   },
   "scripts": {
   },
